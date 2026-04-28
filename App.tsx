@@ -10,6 +10,7 @@ export default function App() {
   );
 }
 
+//Upload 
 const styles = StyleSheet.create({
   container: {
     flex: 1,
